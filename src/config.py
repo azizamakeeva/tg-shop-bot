@@ -1,0 +1,12 @@
+name = "Интернет-магазин"  # Имя магазина
+token = "5492651069:AAGlYrTtbuhzdQ44HFxQZCG_tePaTah1D-c"  # Токен бота
+#admin_id = 967057602  # ID администратора
+admin_id = 96  # ID администратора
+channel = "@PatternprojShop_bot"  # Адрес канала с новостями
+op = "@text"  # Юзернейм оператора
+token_qiwi = "text"
+qiwi = "number"  # Номер Qiwi кошелька
+bitcoin = "text"  # Адрес биткоин
+logo_stick = "text"  # Код стикера
+secret_code = "text"  # Секретный код
+buyer1 = 777777777
